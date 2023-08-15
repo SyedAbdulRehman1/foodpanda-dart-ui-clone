@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860e4915-7db7-41e7-88f1-5692970390a0" name="Changes" comment="" />
+    <list default="true" id="860e4915-7db7-41e7-88f1-5692970390a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/a05e2a8f25836254c1198f936fbda38e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/a05e2a8f25836254c1198f936fbda38e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constats/color.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constats/color.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashboard/detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashboard/detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashboard/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashboard/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashboard/welcome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashboard/welcome.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,7 +39,7 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/flutter_project/flutter-instagram-clone-main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/flutter_project/Dart FoodPanda Ui Clone&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }

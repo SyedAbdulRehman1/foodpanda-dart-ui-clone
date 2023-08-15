@@ -26,7 +26,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
     final width  = MediaQuery.of(context).size.width * 1 ;
     return Scaffold(
       appBar: AppBar(
-        title: const  Text('New Your City') ,
+        title: const  Text('New City') ,
         actions: const[
           Icon(Icons.shopping_bag_outlined),
           SizedBox(width: 10,)

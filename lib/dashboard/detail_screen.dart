@@ -5,7 +5,8 @@ import 'package:instagram_clone/constats/constants.dart';
 import 'package:scrollable_list_tabview/scrollable_list_tabview.dart';
 
 class DetailScreen extends StatefulWidget {
-  final String name, image;
+  final String name,
+      image;
   const DetailScreen({Key? key ,  required this.name , required this.image,}) : super(key: key);
 
   @override

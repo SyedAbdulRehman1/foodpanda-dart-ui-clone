@@ -38,7 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
         title: const  Text('Food Delivery'),
         actions: const[
           Icon(Icons.shopping_bag_outlined),
-          SizedBox(width: 10,)
+          // SizedBox(width: 1000,)
         ],
         bottom: PreferredSize(
           preferredSize:const Size.fromHeight(40),
